@@ -1,0 +1,2 @@
+# safepage
+safeAccesPage
